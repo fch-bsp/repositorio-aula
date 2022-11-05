@@ -4,4 +4,9 @@ ok teste 02
 ok teste 03
 
 nova linha local novo user
+<<<<<<< HEAD
 nova linha
+=======
+
+outra linha user 02
+>>>>>>> 1dab7d2f5d38c0d4605b1c4c7c02a951f41e8f77
