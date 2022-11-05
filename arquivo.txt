@@ -4,3 +4,5 @@ ok teste 02
 ok teste 03
 
 nova linha local novo user
+
+outra linha user 02
